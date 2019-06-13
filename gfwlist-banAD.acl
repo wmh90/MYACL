@@ -1,6 +1,6 @@
 #**********************************************************************
-# 03.17
-# 2019年3月17日14:31:57
+# 06.11
+# 2019年6月11日10:35:08
 # 转载需要注明版权和来源
 # 
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -1296,6 +1296,7 @@
 (^|\.)coinhive\.com$
 (^|\.)huodonghezi\.cn$
 (^|\.)wanfeng1\.com$
+(^|\.)wep016\.top
 (^|\.)win-stock\.com\.cn$
 (^|\.)zantainet\.com$
 
@@ -1500,14 +1501,17 @@
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 (^|\.)raw\.githubusercontent\.com$
 
-
+(^|\.)porn-asmr.\com$
+(^|\.)sissy-university.\com$
+(^|\.)喵帕斯.\com$
+(^|\.)tinkercad.\com$
+(^|\.)apkmirror\.com$
 (^|\.)shireyishunjian\.live$
 (^|\.)shireyishunjian\.com$
 (^|\.)e-hentai\.org$
 (^|\.)sci-hub\.se$
 (^|\.)ashemaletube\.com$
 (^|\.)reddit\.com$
-(^|\.)喵帕斯\.com$
 (^|\.)steamcommunity\.com$
 (^|\.)liuli\.in$
 (^|\.)liuli\.eu$
@@ -2954,6 +2958,8 @@
 (^|\.)emuparadise\.me$
 (^|\.)en\.favotter\.net$
 (^|\.)en\.hao123\.com$
+(^|\.)en\.m\.wikipedia\.org$
+(^|\.)en\.wikipedia\.org$
 (^|\.)enanyang\.my$
 (^|\.)enewstree\.com$
 (^|\.)enfal\.de$
@@ -6818,6 +6824,7 @@
 (^|\.)wuw\.red$
 (^|\.)wuyanblog\.com$
 (^|\.)wwitv\.com$
+(^|\.)www\.wikipedia\.org$
 (^|\.)www\.abclite\.net$
 (^|\.)www\.ajsands\.com$
 (^|\.)www\.americorps\.gov$
